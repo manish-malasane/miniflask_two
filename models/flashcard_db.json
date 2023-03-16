@@ -1,0 +1,18 @@
+[
+  {
+    "Question": "Why we use Flask?",
+    "Answer": "It is a lightweight framework and yet comprehensive"
+  },
+  {
+    "Question": "What libraries we use for data validation?",
+    "Answer": "Basically we use `Pydantic` but there are many more like dataclasses, flask-marshmallow"
+  },
+  {
+    "Question": "What are features of python?",
+    "Answer": "1. Easy to read \n2. Easy to Code \n3. Extensible \n4. Portable \n5. Dynamically typed language"
+  },
+  {
+    "Question": "What are basic linux commands?",
+    "Answer": "1. cp \n2. mv \n3. mkdir \n4. touch \n5. ls -la \n6. rm -rf \n7. pwd \n8. cd"
+  }
+]
